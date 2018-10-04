@@ -1,0 +1,24 @@
+.NumberPad{
+    /* height: 100%;
+    width:50%;
+    margin:0;
+    text-align: center;
+    left:25%; */
+}
+
+.button{
+    margin:1px;
+    height: 5em;
+    width:5em;
+    border: solid black;
+    border-radius: 20px;
+    font-weight: 900;
+    outline:none;
+    font-size:1em;
+}
+.button:hover{
+    border: dotted white;
+    background: black;
+    color:white;
+    font-size:1em;
+}

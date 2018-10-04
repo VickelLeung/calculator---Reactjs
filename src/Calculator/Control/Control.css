@@ -1,0 +1,13 @@
+.Control{
+
+}
+
+.ctrButton{
+    background-color: rgba(95, 86, 86, 0.479);
+    margin:1px;
+    height: 5em;
+    width:5em;
+    border: 1.5px solid black;
+    border-radius: 50%;
+    font-size: 1em;
+}
